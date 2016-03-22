@@ -45,6 +45,7 @@ The output for each rover should be its final co-ordinates and heading.
 
 ```shell
 cd nasa_mission
+bundle
 ruby lib/launch_nasa_mission.rb mission_objective
 ```
 
