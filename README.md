@@ -36,9 +36,10 @@ The output for each rover should be its final co-ordinates and heading.
 
 **Expected Output**
 
+```shell
 1 3 N
 5 1 E
-
+```
 ---
 
 ###How to run
